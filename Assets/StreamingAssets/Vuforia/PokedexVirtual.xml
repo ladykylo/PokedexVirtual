@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kyurem" size="8.800000 6.600000" />
+    <ImageTarget name="Escavalier" size="8.800000 6.600000" />
+    <ImageTarget name="Tropius" size="8.800000 6.600000" />
+    <ImageTarget name="Suicune" size="8.800000 6.600000" />
+    <ImageTarget name="Magmotar" size="8.800000 6.600000" />
+    <ImageTarget name="Zoroark" size="8.800000 6.600000" />
+    <ImageTarget name="Espeon" size="8.800000 6.603710" />
+    <ImageTarget name="Tepig" size="15.690000 11.762541" />
+  </Tracking>
+</QCARConfig>
